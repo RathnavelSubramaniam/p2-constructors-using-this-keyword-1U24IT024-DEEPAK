@@ -44,3 +44,7 @@ public class Practical2
         System.out.println(Product.count);
     }
 }
+
+
+
+
